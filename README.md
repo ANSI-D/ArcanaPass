@@ -14,6 +14,7 @@ It works like this:
 
 ## Result:
 Same inputs = same password every time
+
 Different inputs = completely different passwords
 
 
