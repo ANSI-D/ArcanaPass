@@ -1,4 +1,6 @@
-# ArcanaPass - Stateless Password Generator
+# 🔒 ArcanaPass - Stateless Password Generator
+
+ArcanaPass is a deterministic password generator that creates unique, secure passwords for each website using only your master password, username, and site name. No password storage needed - the same inputs always generate the same password, making it impossible to lose your passwords.
 
 It works like this:
 
@@ -16,7 +18,3 @@ It works like this:
 Same inputs = same password every time
 
 Different inputs = completely different passwords
-
-
-TODO:
-- [ ] Make a better README
